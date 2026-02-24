@@ -1,21 +1,21 @@
 # Farmer Business Management System
 
-This is a console-based project demonstrating Object-Oriented Programming (OOP) concepts in C++ such as inheritance, polymorphism, encapsulation, and constructors.
+A simple console-based project in C++ demonstrating Object-Oriented Programming (OOP) concepts.
 
 ## Features
 - Add, update, display, and delete farmer business records
-- Input validation for quantity and price per unit
+- Input validation for quantity and price
 - Organized using separate header (`Business.h`) and implementation files
 
-## Technical Skills Demonstrated
-- C++, OOP, console applications
+## Skills Demonstrated
+- C++, OOP, inheritance, polymorphism, encapsulation
 - Multi-file project structure
 - Problem-solving and algorithm design
 
 ## How to Run
 1. Open the project in Visual Studio 2022
 2. Build and run the project
-3. Follow on-screen prompts to interact with the system
+3. Follow the prompts in the console
 
 ## Author
 Sabonti Dey
